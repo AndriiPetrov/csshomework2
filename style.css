@@ -12,7 +12,7 @@ body{
 
 .content {
     width: 840px;
-    /* padding: 20px 30px; */ /*This style shoud be according to task list*/
+    /* padding: 20px 30px; */ /*This style shoud be according to task list, but without it it's work perfectly*/
     background-color: #fff;
     margin: 100px auto 0;
 }
